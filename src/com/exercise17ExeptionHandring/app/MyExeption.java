@@ -58,7 +58,7 @@ public class MyExeption {
 			}
 			finally
 			{
-				//input.next();
+				// input.next();
 			}
 			for (i=0;i<number.length;i++)
 			{
